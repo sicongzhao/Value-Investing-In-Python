@@ -25,7 +25,7 @@ This section unveils the definition of intrinsic value, and also provide a step-
 * Calculate intrinsic value in 2 ways
 * Discuss the downside and remedy for these 2 methods
 
-## Who is the target audience?
+### Who is the target audience?
 If you have been trading stocks for years but conducted your fundamental analysis manually, this is the starting point for you to automate your analysis. Thus, you could conduct a fundamental analysis on a large scale, save a lot of time and avoid human mistakes.
 
 If you have just started to trade stocks, and have no idea about how to evaluate a stock. Then, this tutorial could help you establish a basic framework and hypothetically save you some money for avoiding some obvious mistakes.
@@ -42,6 +42,9 @@ Python basics and Pandas would be required. If you are not familiar with them, h
 
 You could also try to start without Python and Pandas basics since I am trying to make everything clear. But if you at some point feel hard to understand what the code does, please feel free to leave me a comment and come back to these tutorials.
 
+### Next
+
+I am working with teammates to build a website that hosts tutorials and also provide financial insights, stock recommendation based on the technologies that we learned and taught on the website.
 
 ### Acknowledgements
 I want to thank [Preston Pysh](https://www.youtube.com/channel/UCLTdCY-fNXc1GqzIuflK-OQ), [Investopedia](http://investopedia.com/), [StatQuest](https://www.youtube.com/user/joshstarmer) and [Towards Data Science](https://towardsdatascience.com/).
