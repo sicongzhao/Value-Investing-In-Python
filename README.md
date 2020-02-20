@@ -1,7 +1,7 @@
 This repository hosts the code of **Value Investing in Python**, a data science tutorial published in Medium. 
 This tutorial covers fundamental analysis for US stocks.
 
-### Syllabus
+## Syllabus
 The organization of this tutorial falls into the following parts:
 
 **[1. Collecting financial data for fundamental analysis](https://medium.com/@luo9137/collecting-financial-data-for-fundamental-analysis-115140f5f162)**
@@ -25,14 +25,14 @@ This section unveils the definition of intrinsic value, and also provide a step-
 * Calculate intrinsic value in 2 ways
 * Discuss the downside and remedy for these 2 methods
 
-### Who is the target audience?
+## Who is the target audience?
 If you have been trading stocks for years but conducted your fundamental analysis manually, this is the starting point for you to automate your analysis. Thus, you could conduct a fundamental analysis on a large scale, save a lot of time and avoid human mistakes.
 
 If you have just started to trade stocks, and have no idea about how to evaluate a stock. Then, this tutorial could help you establish a basic framework and hypothetically save you some money for avoiding some obvious mistakes.
 
 If you are a data science newbie, wish to gain some hands-on experience. Then, the finance field can be an ideal starting point since it could offer you tons of organized and relatively clean data.
 
-### Prerequisites
+## Prerequisites
 You do not need to know any finance to be able to study this tutorial, as we will introduce Preston Pysh’s videos, who did a great job in teaching financial concepts in an easy-to-understand way.
 
 Python basics and Pandas would be required. If you are not familiar with them, here are some resources could be helpful:
@@ -42,11 +42,11 @@ Python basics and Pandas would be required. If you are not familiar with them, h
 
 You could also try to start without Python and Pandas basics since I am trying to make everything clear. But if you at some point feel hard to understand what the code does, please feel free to leave me a comment and come back to these tutorials.
 
-### Next
+## Next
 
 I am working with teammates to build a website that hosts tutorials and also provide financial insights, stock recommendation based on the technologies that we learned and taught on the website.
 
-### Acknowledgements
+## Acknowledgements
 I want to thank [Preston Pysh](https://www.youtube.com/channel/UCLTdCY-fNXc1GqzIuflK-OQ), [Investopedia](http://investopedia.com/), [StatQuest](https://www.youtube.com/user/joshstarmer) and [Towards Data Science](https://towardsdatascience.com/).
 
 Preston Pysh created a fantastic value investing course on YouTube. I would recommend this course to anyone with an interest in investing and finance.
