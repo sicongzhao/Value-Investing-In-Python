@@ -3,18 +3,24 @@ This tutorial covers fundamental analysis for US stocks.
 
 ### Syllabus
 The organization of this tutorial falls into the following parts:
+
 **[1. Collecting financial data for fundamental analysis](https://medium.com/@luo9137/collecting-financial-data-for-fundamental-analysis-115140f5f162)**
+
 Data is the foundation of this project, and all the subsequent analysis will use data collected in this section. In this section, we have 3 learning objectives:
 * Understand the basic concept of value investing and intrinsic value
 * Understand what data will be needed to calculate intrinsic value
 * Learn to collect the financial data needed from future use
-**[2. How to Generate these Popular Stock Terms using Python(https://medium.com/@luo9137/how-to-generate-these-popular-stock-terms-using-python-4e69c6acc6b3)**
+
+**[2. How to Generate these Popular Stock Terms using Python](https://medium.com/@luo9137/how-to-generate-these-popular-stock-terms-using-python-4e69c6acc6b3)**
+
 This section covers the relative simple metrics which will be very useful in fundamental analysis. 
 Here we have 4 learning objectives:
 * What are some important metrics for value investing
 * Learn to load financial data into Pandas
 * Learn how to retrieve and calculate the metrics using Pandas
+
 **[3. How to calculate the intrinsic value](https://medium.com/@luo9137/how-to-calculate-the-intrinsic-value-of-a-stock-31c0312586a3)**
+
 This section unveils the definition of intrinsic value, and also provide a step-by-step calculation for intrinsic value. Here we have 2 learning objectives:
 * Calculate intrinsic value in 2 ways
 * Discuss the downside and remedy for these 2 methods
